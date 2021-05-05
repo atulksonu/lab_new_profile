@@ -1,2 +1,4 @@
-# lab_new_profile
-my new profile setup 
+# Profile
+i am atul kumar
+my working platform github 
+
